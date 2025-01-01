@@ -34,11 +34,11 @@ Jupyter Notebook
 
 Libraries:
 
-scikit-learn: For PCA, regression modeling, and performance metrics.
+<code>scikit-learn:</code> For PCA, regression modeling, and performance metrics.
 
-pandas: For data manipulation and analysis.
+<code>pandas:</code> For data manipulation and analysis.
 
-matplotlib: For data visualization.
+<code>matplotlib:</code> For data visualization.
 
 
 📊 **Steps in the Workflow**
